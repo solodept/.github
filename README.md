@@ -128,6 +128,9 @@ We love building in public and sharing what we learn along the way.
 
 https://solodept.com
 
+### X (Twitter)
+
+https://x.com/solodept
 
 Follow for product updates, development logs, experiments, and lessons learned while building as a solo founder.
 
