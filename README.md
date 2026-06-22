@@ -1,4 +1,4 @@
-# SoloDept 🛠️
+# SoloDept
 
 > One person. One department.
 >
@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Welcome to SoloDept
+## Welcome to SoloDept
 
 Modern AI tools have changed how software is built.
 
@@ -22,7 +22,7 @@ Our mission is simple:
 
 ---
 
-## 🚀 Why SoloDept?
+## Why SoloDept?
 
 As indie developers, we wear many hats:
 
@@ -41,9 +41,9 @@ By combining focused product design with modern AI workflows, we build tools tha
 
 ---
 
-# 🧰 Products
+# Products
 
-## 📊 Store Finance Desk
+## Store Finance Desk
 
 Free & Open Source
 
@@ -60,36 +60,42 @@ Visualize monthly revenue, downloads, subscriptions, and financial reports — a
 - Beautiful Revenue Dashboards
 - Privacy First
 
-🔗 Repository:
+Repository:
 
 https://github.com/solodept/store-finance-desk
 
 ---
 
-## 📸 App Screenshot Studio
+## SoloScreenshot
 
 Premium Desktop Software
 
-Generate beautiful App Store and Google Play screenshots in minutes.
+A secure, 100% offline app screenshot generator and mockup studio for macOS & Windows.
 
-Built specifically for indie developers who need professional marketing assets without spending hours in Figma or Photoshop.
+Load local translation JSONs to batch-resize, render, and export App Store & Google Play screenshots with absolute privacy.
 
 ### Features
 
-- Multi-language Screenshot Generation
-- App Store & Google Play Support
-- Multiple Device Frames
-- Batch Export
-- Custom Templates
-- One-click Screenshot Production
+- 100% Offline Rendering
+- Batch Localized Screenshots
+- Store-Ready Export
+- Built-in Templates
+- Project Workflow
+- Simple Lifetime Pro
 
-Coming soon.
+Repository:
+
+https://github.com/solodept/soloscreenshot
+
+Official Website:
+
+https://screenshot.solodept.com
 
 ---
 
-# 🌱 Our Principles
+# Our Principles
 
-### 🔒 Privacy First
+### Privacy First
 
 Your credentials, financial data, screenshots, and project files stay on your device.
 
@@ -97,7 +103,7 @@ We believe developers should own their data.
 
 ---
 
-### ⚡ Simple & Focused
+### Simple & Focused
 
 Every SoloDept product is designed to solve one problem exceptionally well.
 
@@ -106,13 +112,13 @@ No bloated feature lists.
 
 ---
 
-### 🚀 Builder Productivity
+### Builder Productivity
 
 Our goal is to help solo creators ship products faster and spend less time on repetitive work.
 
 ---
 
-### ❤️ Sustainable Open Source
+### Sustainable Open Source
 
 Revenue from premium products helps support and maintain our open-source projects.
 
@@ -120,13 +126,9 @@ This allows us to keep building useful tools for the indie developer community.
 
 ---
 
-# 🌍 Connect
+# Connect
 
 We love building in public and sharing what we learn along the way.
-
-### Website
-
-https://solodept.com
 
 ### X (Twitter)
 
@@ -136,8 +138,8 @@ Follow for product updates, development logs, experiments, and lessons learned w
 
 ---
 
-## ✨ Motto
+## Motto
 
 > One person. One department.
 >
-> Build. Ship. Grow
+> Build. Ship. Grow.
